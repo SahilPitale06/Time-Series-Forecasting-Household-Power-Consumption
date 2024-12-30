@@ -56,9 +56,9 @@ The dataset is loaded from the UCI repository, where the features and target val
 ## How to Run
 1. To install the necessary libraries, run:
 
-```bash
-pip install ucimlrepo pandas numpy matplotlib seaborn statsmodels scikit-learn tensorflow
-```
+ ```bash
+ pip install ucimlrepo pandas numpy matplotlib seaborn statsmodels scikit-learn tensorflow
+ ```
 2. Download the dataset:
 The dataset is automatically fetched from the UCI repository in the notebook.
 
